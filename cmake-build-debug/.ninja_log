@@ -1,0 +1,6 @@
+# ninja log v5
+1174	1443	7166578841875943	naive_gauss_elimination.exe	4ab9ecb1fd9049f9
+8	699	7166579926061945	build.ninja	8325a20a601122c8
+1	1172	7166578839213776	CMakeFiles/naive_gauss_elimination.dir/main.cpp.obj	c0c276713050255b
+16	1392	7166580197135061	CMakeFiles/naive_gauss_elimination.dir/main.cpp.obj	5d88480fd8840d53
+1393	1660	7166580199711413	naive_gauss_elimination.exe	4ab9ecb1fd9049f9
